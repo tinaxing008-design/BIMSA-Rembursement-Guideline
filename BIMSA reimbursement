@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -212,7 +212,7 @@
         <div class="section-card">
             <div class="section-title">✈️ Domestic Travel</div>
             <div class="section-content">
-                <div class="info-block"><strong>📋 Basic Documents</strong><br>Leave Application form (Funding Source);</br> Invitation letter or conference notification; </br></div>
+                <div class="info-block"><strong>📋 Basic Documents</strong><br>Leave Application form (Funding Source);<br> Invitation letter or conference notification; <br></div>
                 <div class="info-block"><strong>🛫 Flight</strong><br>
                     - Boarding Passes (photo or original);<br>
                     - Chinese VAT invoice (note in the remark: itinerary, passenger info, etc.);<br>
@@ -220,7 +220,7 @@
                     - Payment Proof (when the payment is more than 1w);
 
                 </div>
-                <div class="info-block"><strong>🚖 Car ride to and from the airport</strong><br>itinerary;</br> Chinese VAT invoice;</br></div>
+                <div class="info-block"><strong>🚖 Car ride to and from the airport</strong><br>itinerary;<br> Chinese VAT invoice;<br></div>
                 <div class="info-block"><strong>🚆 Train</strong><br>
                     - Online order page (if it’s online booking)<br>
                     - Train ticket invoice (can only be issued through the official China Railway app 122306 or from the train station ticketing counter)<br>
@@ -237,13 +237,13 @@
         <div class="section-card">
             <div class="section-title">🌍 International Travel</div>
             <div class="section-content">
-                <div class="info-block"><strong>📄 Basic documents</strong><br>-Leave Application;</br> -Invitation email;</br> -Passport photo-page</br></div>
+                <div class="info-block"><strong>📄 Basic documents</strong><br>-Leave Application;</br> -Invitation email;<br> -Passport photo-page<br></div>
                 <div class="info-block"><strong>✈️ Flight</strong><br>- Boarding Passes (photo or original);<br>
                     - Air ticket invoice/ receipt;<br>
                     - Online order page or booking confirmation email, showing price breakdown, passenger and itinerary info;<br>
                     - Payment Proof;</div>
-                <div class="info-block"><strong>🏨 Accommodation</strong><br>Hotel Invoice/ receipt;</br> Hotel folio, specifying the price breakdown, check-in and check-out date, and with hotel’s official seal);</br></div>
-                <div class="info-block"><strong>🚖 Car ride to and from the airport</strong><br>itinerary;</br> Chinese VAT invoice;</br></div>
+                <div class="info-block"><strong>🏨 Accommodation</strong><br>Hotel Invoice/ receipt;<br> Hotel folio, specifying the price breakdown, check-in and check-out date, and with hotel’s official seal);<br></div>
+                <div class="info-block"><strong>🚖 Car ride to and from the airport</strong><br>itinerary;<br> Chinese VAT invoice;<br></div>
                 <div class="highlight">
                     🧾 <strong>Please note:</strong>：If the air tickets or hotel are booked on Trip.com, the Chinese VAT invoice is needed. 
 
@@ -263,7 +263,7 @@
                 <li><br>Text in the chatbox the tax number and the Chinese name of BIMSA (see below)<br>
                     <span class="tax-number">🏢 <strong>Chinese Name：<highlight>北京雁栖湖应用数学研究院</highlight></strong> </span><br>
                     <span class="tax-number">🔢 <strong>Tax Number：<highlight>52110000MJ0166456X</highlight></strong></span>
-                </li></dv>
+                </li>
             </ul>
             <div class="footnote">※ Please make sure the invoice information is correct</div>
         </div>
@@ -285,7 +285,7 @@ Please refer to Page 15 (domestic travel) and Page 27 (international travel) of 
             <div class="section-content">
                 <p><br>Upper limit for <strong>Professors:</strong> <br>Beijing/ Shanghai: 1080 RMB per night<br></p>
                 <p>Please refer to Page 15 of the <i><a href="D:\WORK BIMSA\REIMBURSE\Others\Reimburse info\Financial Handbook（First Edition）.pdf">Financial Handbook (First Edition)</a></i> for more information</p>
-            </div> 🔹 <strong>Additional Finance Regulations on Accommodations in Beijing</strong>：</p>
+            </div> 🔹 <strong>Additional Regulations on Accommodations in Beijing</strong>：
                 <ul class="list-styled">
                     <li>Participating in academic exchanges or other official activities within Beijing shall not be regarded as business trip, and in principle, the accommodation expenses incurred shall not be reimbursed.</li>
                     <li>If one need to stay in the hotel regularly or frequently due to teaching or other work needs, one need to report to <strong>the VP in charge for approval</strong> in advance. </li>
