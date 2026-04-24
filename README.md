@@ -1,6 +1,4 @@
-# BIMSA-Rembursement-Guideline
-This is about reimbursement
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 
 <head>
@@ -241,8 +239,7 @@ This is about reimbursement
             <div class="section-card">
                 <div class="section-title">✈️ Domestic Travel</div>
                 <div class="section-content">
-                    <div class="info-block"><strong>📋 Basic Documents</strong><br>Leave Application form (Funding
-                        Source);</br> Invitation letter or conference notification; </br></div>
+                    <div class="info-block"><strong>📋 Basic Documents</strong><br>Leave Application form (Funding Source);<br> Invitation letter or conference notification; <br></div>
                     <div class="info-block"><strong>🛫 Flight</strong><br>
                         - Boarding Passes (photo or original);<br>
                         - Chinese VAT invoice (note in the remark: itinerary, passenger info, etc.);<br>
@@ -251,8 +248,8 @@ This is about reimbursement
                         - Payment Proof (when the payment is more than 1w);
 
                     </div>
-                    <div class="info-block"><strong>🚖 Car ride to and from the airport</strong><br>itinerary;</br>
-                        Chinese VAT invoice;</br></div>
+                    <div class="info-block"><strong>🚖 Car ride to and from the airport</strong><br>itinerary;<br>
+                        Chinese VAT invoice;<br></div>
                     <div class="info-block"><strong>🚆 Train</strong><br>
                         - Online order page (if it’s online booking)<br>
                         - Train ticket invoice (can only be issued through the official China Railway app 122306 or from
@@ -275,18 +272,18 @@ This is about reimbursement
             <div class="section-card">
                 <div class="section-title">🌍 International Travel</div>
                 <div class="section-content">
-                    <div class="info-block"><strong>📄 Basic documents</strong><br>-Leave Application;</br> -Invitation
-                        email;</br> -Passport photo-page</br></div>
+                    <div class="info-block"><strong>📄 Basic documents</strong><br>-Leave Application;<br> -Invitation
+                        email;<br> -Passport photo-page<br></div>
                     <div class="info-block"><strong>✈️ Flight</strong><br>- Boarding Passes (photo or original);<br>
                         - Air ticket invoice/ receipt;<br>
                         - Online order page or booking confirmation email, showing price breakdown, passenger and
                         itinerary info;<br>
                         - Payment Proof;</div>
-                    <div class="info-block"><strong>🏨 Accommodation</strong><br>Hotel Invoice/ receipt;</br> Hotel
+                    <div class="info-block"><strong>🏨 Accommodation</strong><br>Hotel Invoice/ receipt;<br> Hotel
                         folio, specifying the price breakdown, check-in and check-out date, and with hotel’s official
-                        seal);</br></div>
-                    <div class="info-block"><strong>🚖 Car ride to and from the airport</strong><br>itinerary;</br>
-                        Chinese VAT invoice;</br></div>
+                        seal);<br></div>
+                    <div class="info-block"><strong>🚖 Car ride to and from the airport</strong><br>itinerary;<br>
+                        Chinese VAT invoice;<br></div>
                     <div class="highlight">
                         🧾 <strong>Please note:</strong>：If the air tickets or hotel are booked on Trip.com, the Chinese
                         VAT invoice is needed.
@@ -310,7 +307,7 @@ This is about reimbursement
                         <span class="tax-number">🔢 <strong>Tax Number：<highlight>52110000MJ0166456X</highlight>
                             </strong></span>
                     </li>
-                    </dv>
+            
                 </ul>
                 <div class="footnote">※ Please make sure the invoice information is correct</div>
             </div>
