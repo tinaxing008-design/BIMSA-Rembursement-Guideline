@@ -338,6 +338,7 @@
     </div>
     <div style="margin-top: 3rem; font-size: 0.75rem; color: #8aa0b5;">BIMSA Finance · Please review latest policies</div>
   </div>
+
   <!-- ==================== TRAVEL DETAIL PAGE ==================== -->
   <div id="travelPage" class="detail-page">
     <button class="back-btn" data-back="cover"><i class="fas fa-arrow-left"></i> Back to categories</button>
@@ -351,6 +352,7 @@
       <button id="internationalTabBtn">🌍 International Travel</button>
       <button id="tripcomTabBtn">🧾 How to issue invoice from Trip.com</button>
     </div>
+
     <!-- Domestic Travel Content -->
     <div id="domesticContent" class="travel-tab-content active-tab-content">
       <div class="doc-section">
@@ -379,6 +381,7 @@
           <div class="std-card"><strong>✈️ Transport Standard</strong> Professors are eligible for <span style="color: crimson;">Business class</span> Flight and <span style="color: crimson;">First-class</span> Train. <br> Please refer to  p.15 <a href="D:\WORK BIMSA\REIMBURSE\Others\Reimburse info\Financial Handbook（First Edition）.pdf"><i>Financial Handbook</i></a> for more information</div>
           <div class="std-card"><strong>🏨 Accommodation Standard</strong> Upper Limit for Hotel in Beijing/Shanghai: <br>1080 RMB per night for <span style="color: crimson;">Professors</span>  and 990 RMB per night for others. <br>Please refer to  p.15-25 <a href="D:\WORK BIMSA\REIMBURSE\Others\Reimburse info\Financial Handbook（First Edition）.pdf"><i>Financial Handbook</i></a> for more information.</div> Beijing: academic exchanges within Beijing → not business trip; regular hotel stays due to teaching (excl. Qiuzhen credit course) require VP approval in advance; one-night stay → prior approval required.</div>
         </div>
+      
       <div class="doc-section">
         <h2>Per diem allowance (meals & local transport)</h2>
         <ul class="doc-list">
@@ -395,6 +398,7 @@
             </tbody>
            </table>
            <li><strong>Prerequisite:</strong> "No meals or local transport provided by host". Invitation must explicitly state no support for meals/transport.</li>
+        
         <div class="sub-note"><i class="fas fa-info-circle"></i> Per diem claimable only if traveler bears own meals & local transit.</div>
       </div></div>
     <!-- International Travel Content -->
@@ -421,7 +425,8 @@
           <ul class="doc-list">
           <li>itinerary</li> 
           <li>Chinese VAT invoice</li></ul>
-          <div>Invited visitors support:</strong> VP’s consent screenshot required in advance.</div> 
+          <div>Invited visitors support:</strong> VP’s consent screenshot required in advance.</div>
+        
       </div>
       <div class="doc-section">
         <h2><i class="fas fa-plane"></i> Transport and Accommodation (international)</h2>
@@ -446,9 +451,12 @@
             <tr><td>≤ 10 days</td><td>Full allowance for all days (meal + local transport)</td></tr>
             <tr><td>10-15 days</td><td>10 days full allowance + extra days at half rate</td></tr>
             <tr><td>≥ 15 days</td><td>10 days full + 5 days half allowance (remaining days no per diem)</td></tr>
-          </tbody></table>  
+          </tbody></table>
+        
+        
       </div>
     </div>
+
     <!-- Trip.com Invoice Guide - separate independent section (now a separate link) -->
     <div id="tripcomContent" class="travel-tab-content">
       <div class="doc-section">
@@ -467,6 +475,7 @@
       </div>
     </div>
   </div>
+
   <!-- ==================== LABOR SERVICE FEE PAGE ==================== -->
   <div id="laborPage" class="detail-page">
     <button class="back-btn" data-back="cover"><i class="fas fa-arrow-left"></i> Back to categories</button>
@@ -480,6 +489,7 @@
       <button id="stipendTabBtn">🎓 Stipend for visitors</button>
       <button id="notesTabBtn">📌 Notes</button>
     </div>
+
     <!-- Honoraria for talks content -->
     <div id="honorariaContent" class="labor-tab-content active-tab-content">
       <div class="doc-section">
@@ -503,6 +513,7 @@
         <div class="sub-note"><i class="fas fa-exclamation-triangle"></i> Invoice required for amounts ≥1000 RMB. Instruction on self-issuing labor service fee invoice available from finance (Word document).</div>
       </div>
     </div>
+
     <!-- Stipend for visitors content -->
     <div id="stipendContent" class="labor-tab-content">
       <div class="doc-section">
@@ -520,6 +531,7 @@
         </ul>
       </div>
     </div>
+
     <!-- Notes content (includes Tax & invoicing guidance) -->
     <div id="notesContent" class="labor-tab-content">
       <div class="doc-section">
