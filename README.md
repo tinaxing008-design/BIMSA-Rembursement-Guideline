@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -338,7 +339,6 @@
     </div>
     <div style="margin-top: 3rem; font-size: 0.75rem; color: #8aa0b5;">BIMSA Finance · Please review latest policies</div>
   </div>
-
   <!-- ==================== TRAVEL DETAIL PAGE ==================== -->
   <div id="travelPage" class="detail-page">
     <button class="back-btn" data-back="cover"><i class="fas fa-arrow-left"></i> Back to categories</button>
@@ -422,7 +422,7 @@
           <ul class="doc-list">
           <li>itinerary</li> 
           <li>Chinese VAT invoice</li></ul>
-          <div>Invited visitors support:</strong> VP’s consent screenshot required in advance.</div>
+          <div>Invited visitors support:</strong> VP’s consent screenshot required in advance.</div> 
       </div>
       <div class="doc-section">
         <h2><i class="fas fa-plane"></i> Transport and Accommodation (international)</h2>
@@ -447,7 +447,7 @@
             <tr><td>≤ 10 days</td><td>Full allowance for all days (meal + local transport)</td></tr>
             <tr><td>10-15 days</td><td>10 days full allowance + extra days at half rate</td></tr>
             <tr><td>≥ 15 days</td><td>10 days full + 5 days half allowance (remaining days no per diem)</td></tr>
-          </tbody></table>
+          </tbody></table>  
       </div>
     </div>
     <!-- Trip.com Invoice Guide - separate independent section (now a separate link) -->
