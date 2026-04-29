@@ -507,7 +507,7 @@
     <!-- Stipend for visitors content -->
     <div id="stipendContent" class="labor-tab-content">
       <div class="doc-section">
-        <h2><i class="fas fa-user-graduate"></i> Stipend for visitors (students)</h2>
+        <h2><i class="fas fa-user-graduate">Stipend for visitors (students)</h2></i> 
         <ul class="doc-list">
           <li><strong>Standard:</strong> Up to <strong>9900 RMB per month</strong> for students.</li>
           <li><strong>Documents needed:</strong>
@@ -539,7 +539,6 @@
     </div>
   </div>
 </div>
-
 <script>
   const coverDiv = document.getElementById('coverSection');
   const travelPage = document.getElementById('travelPage');
@@ -572,7 +571,6 @@
     setActiveLaborTab('honoraria');
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
-
   // Travel tabs: domestic, international, tripcom
   const domesticTabBtn = document.getElementById('domesticTabBtn');
   const internationalTabBtn = document.getElementById('internationalTabBtn');
@@ -580,7 +578,6 @@
   const domesticContent = document.getElementById('domesticContent');
   const internationalContent = document.getElementById('internationalContent');
   const tripcomContent = document.getElementById('tripcomContent');
-
   function setActiveTravelTab(tab) {
     domesticContent.classList.remove('active-tab-content');
     internationalContent.classList.remove('active-tab-content');
@@ -645,7 +642,6 @@
       if(btn.getAttribute('data-back') === 'cover') showCover();
     });
   });
-
   showCover();
   setActiveTravelTab('domestic');
   setActiveLaborTab('honoraria');
